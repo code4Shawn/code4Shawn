@@ -4,6 +4,8 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+### Find me at...  
+
 <p align="left">
 <a href="https://www.linkedin.com/in/shawn-ng-iela-667492231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shawn ngi'iela" height="30" width="40" /></a>
 </p>
