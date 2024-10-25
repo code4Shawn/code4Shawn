@@ -121,7 +121,7 @@ Python                   5 repos             ██░░░░░░░░░�
 Dart                     5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
 ```
 
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=code4Shawn&show_icons=true&locale=en" alt="code4Shawn" /></p>
 
 
  Last Updated on 24/10/2024 16:25:00 UTC
