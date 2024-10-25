@@ -4,6 +4,8 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+![Innova Limited](http://img.shields.io/badge/Code%20Time-3%2C183%20hrs%204%20mins-purple)
+
 ### Find me at...  
 
 <p align="left">
