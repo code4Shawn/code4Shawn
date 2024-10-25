@@ -7,7 +7,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/KnightLord_?label=Follow)](https://twitter.com/KnightLord_)
 [![Linkedin: code4Shawn](https://img.shields.io/badge/-shawn-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shawn-ng-iela-667492231/)](https://www.linkedin.com/in/shawn-ng-iela-667492231)
 ![GitHub followers](https://img.shields.io/github/followers/code4Shawn?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://code4shawn.github.io/PersonalPortfolio/)
+![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://code4shawn.github.io/PersonalPortfolio/)
 
 ### A little more about me...  
 
