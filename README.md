@@ -1,10 +1,8 @@
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/>## Hi there 👋 I'm Shawn Ng'iela! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
-<p><em>Software Developer at <a href="https://www.innova.co.ke//">Innova Limited
+<p><em>Software Developer at <a href="https://www.innova.co.ke//" text-deoration="none">Innova Limited
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
-
-![Innova Limited](http://img.shields.io/badge/Code%20Time-3%2C183%20hrs%204%20mins-purple)
 
 ### Find me at...  
 
