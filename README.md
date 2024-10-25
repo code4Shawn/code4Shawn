@@ -4,8 +4,10 @@
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
+<p align="left">
+<a href="https://www.linkedin.com/in/shawn-ng-iela-667492231/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shawn ngi'iela" height="30" width="40" /></a>
+</p>
 [![Twitter Follow](https://img.shields.io/twitter/follow/KnightLord_?label=Follow)](https://twitter.com/KnightLord_)
-[![Linkedin: code4Shawn](https://img.shields.io/badge/-shawn-purple?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shawn-ng-iela-667492231/)](https://www.linkedin.com/in/shawn-ng-iela-667492231)
 ![GitHub followers](https://img.shields.io/github/followers/code4Shawn?label=Follow&style=social)
 ![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://code4shawn.github.io/PersonalPortfolio/)
 
